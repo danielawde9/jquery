@@ -1,0 +1,28 @@
+[
+    {
+        "name": "lebanon",
+        "currency": "LBP"
+    },
+    {
+        "name": "saudi",
+        "currency": "SAR"
+    }
+]
+// countries[1].currency the output is SAR
+
+{
+  "countries_name": [
+    {
+      "name": "lebanon",
+      "currency": "LBP"
+    },
+    {
+      "name": "saudi",
+      "currency": "SAR"
+    }
+  ]
+}
+
+
+// countries_name[1].currency the output is SAR
+
